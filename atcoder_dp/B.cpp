@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 int min(int& a, int& b){return a<b?a:b;}
-void pre_calc(int&, int&, vector<int>&, vector<int>&);
+void memo(int&, int&, vector<int>&, vector<int>&);
 int main(){
     int N, K;
     
@@ -11,7 +11,7 @@ int main(){
     vector<int> dp(N, INT32_MAX);
 
     for(int i=0;i<N;i++)cin>>V[i];
-    pre_calc(N, K, V, dp);
+    memo(N, K, V, dp);
 
     cout<<dp[N-1]<<endl;
 
@@ -19,7 +19,7 @@ int main(){
     return 0;
 }
 
-void pre_calc(int& n, int& k, vector<int>& V, vector<int>& dp){ 
+void memo(int& n, int& k, vector<int>& V, vector<int>& dp){ 
     dp[0]=0;
     for(int i=1;i<n;i++){
         for(int j=1;j<=k;j++){
