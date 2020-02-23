@@ -13,6 +13,8 @@
 * I	Coins
 * J	Sushi
 
-#### A Frog 1 (You are invited to try it yourself before at [atcoder](https://atcoder.jp/contests/dp/tasks/dp_a))
+#### A Frog 1 
+(You are invited to try it yourself before at [atcoder](https://atcoder.jp/contests/dp/tasks/dp_a))
 
-#### B Frog 2 (You are invited to try it yourself before at [atcoder](https://atcoder.jp/contests/dp/tasks/dp_b))
+#### B Frog 2 
+(You are invited to try it yourself before at [atcoder](https://atcoder.jp/contests/dp/tasks/dp_b))
