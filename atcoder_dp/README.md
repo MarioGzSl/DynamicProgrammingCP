@@ -4,4 +4,11 @@
 
 * A	Frog 1
 * B	Frog 2
-
+* C	Vacation
+* D	Knapsack 1
+* E	Knapsack 2
+* F	LCS
+* G	Longest Path
+* H	Grid 1
+* I	Coins
+* J	Sushi
