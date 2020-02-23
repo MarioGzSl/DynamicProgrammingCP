@@ -3,7 +3,7 @@
 ### Tasks
 
 * **[A	Frog 1](#A-Frog-1)**
-* **[B	Frog 2](#B-Frog-1)**
+* **[B	Frog 2](#B-Frog-2)**
 * C	Vacation
 * D	Knapsack 1
 * E	Knapsack 2
