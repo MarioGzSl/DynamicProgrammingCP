@@ -11,11 +11,9 @@ void memo(int target, vector<int>& V, vector<int>& dp){
 }
 int main(){
     int N;
-    vector<int> V;
-    vector<int> dp; 
     cin>>N;
-    V.assign(N,0);
-    dp.assign(N,0);
+    vector<int> V(N, 0);
+    vector<int> dp(N, 0); 
     for(int i=0;i<N;i++)cin>>V[i];
     memo(N, V, dp);
     cout<<dp[N-1]<<endl;
