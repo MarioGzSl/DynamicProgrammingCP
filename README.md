@@ -1,1 +1,1 @@
-# DynamicProgrammingCP
+# Dynamic Programming in Competitive Programming
