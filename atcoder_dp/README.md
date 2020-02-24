@@ -4,7 +4,7 @@
 
 * **[A	Frog 1](#A-Frog-1)**
 * **[B	Frog 2](#B-Frog-2)**
-* C	Vacation
+* **[C	Vacation 2](#C-Vacation)**
 * D	Knapsack 1
 * E	Knapsack 2
 * F	LCS
@@ -18,3 +18,6 @@
 
 #### B Frog 2 
 (You are invited to try it yourself before at [atcoder](https://atcoder.jp/contests/dp/tasks/dp_b))
+
+#### C Vacation
+(You are invited to try it yourself before at [atcoder](https://atcoder.jp/contests/dp/tasks/dp_c))
